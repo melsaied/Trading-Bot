@@ -1,0 +1,10 @@
+yfinance~=0.2.3
+pip==22.3.1
+wheel==0.38.4
+cryptography~=39.0.0
+Pillow~=9.4.0
+setuptools==65.6.3
+packaging~=22.0
+pyparsing~=3.0.9
+future~=0.18.2
+backtrader~=1.9.76.123
